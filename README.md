@@ -1,0 +1,2 @@
+### Enable SSH for containerized Azure Functions
+The article that explains the SSH Server deployment to Azure Function container can be found [in my blog here](https://strive2code.com/post/2020/11/13/enable-ssh-for-containerized-azure-functions).
